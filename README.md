@@ -1,4 +1,4 @@
-# hip4_market_data
+# HIP 4 Markt Data research
 
 Research archive for Hyperliquid HIP-4 World Cup markets.
 
