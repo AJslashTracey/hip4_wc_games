@@ -3,7 +3,7 @@
 ## Single Lag Moment
 
 Linked dataset:
-[`argentina_egypt_live`](../data/samples/argentina_egypt_live)
+[`argentina_egypt_live`](data/samples/argentina_egypt_live)
 
 This chart is the clearest example of the project's main finding: the lag is
 visible, but the executable edge is poor once spread and exit quality are taken
@@ -17,15 +17,15 @@ Source HTML:
 ## Matching Time-Series Sample
 
 The visual is linked to the published
-[`argentina_egypt_live`](../data/samples/argentina_egypt_live) sample. The most
+[`argentina_egypt_live`](data/samples/argentina_egypt_live) sample. The most
 useful files for inspecting the time series behind this chart are:
 
 | File | What it shows |
 | --- | --- |
-| [`rest_mid_samples.csv`](../data/samples/argentina_egypt_live/rest_mid_samples.csv) | Periodic mid-price samples for match and champion markets. |
-| [`ws_bbo.jsonl`](../data/samples/argentina_egypt_live/ws_bbo.jsonl) | Best bid/offer updates used to inspect executable spread. |
-| [`ws_l2book.jsonl`](../data/samples/argentina_egypt_live/ws_l2book.jsonl) | Full L2 book snapshots for depth and quote quality. |
-| [`ws_trades.jsonl`](../data/samples/argentina_egypt_live/ws_trades.jsonl) | Trade prints for checking whether observed moves actually traded. |
+| [`rest_mid_samples.csv`](data/samples/argentina_egypt_live/rest_mid_samples.csv) | Periodic mid-price samples for match and champion markets. |
+| [`ws_bbo.jsonl`](data/samples/argentina_egypt_live/ws_bbo.jsonl) | Best bid/offer updates used to inspect executable spread. |
+| [`ws_l2book.jsonl`](data/samples/argentina_egypt_live/ws_l2book.jsonl) | Full L2 book snapshots for depth and quote quality. |
+| [`ws_trades.jsonl`](data/samples/argentina_egypt_live/ws_trades.jsonl) | Trade prints for checking whether observed moves actually traded. |
 
 Example rows from `rest_mid_samples.csv`:
 

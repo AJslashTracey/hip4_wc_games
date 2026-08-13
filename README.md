@@ -119,5 +119,5 @@ Some collectors also derive event files such as impulse or order-book pressure e
 
 This last step is where most ideas failed.
 
-See [docs/datasets.md](docs/datasets.md), [visuals.md](visuals.md), and the checked-in
+See [datasets.md](datasets.md), [visuals.md](visuals.md), and the checked-in
 sample excerpts under [`data/samples/`](data/samples/).
