@@ -9,7 +9,7 @@ This chart is the clearest example of the project's main finding: the lag is
 visible, but the executable edge is poor once spread and exit quality are taken
 seriously.
 
-![Single lag moment chart](docs/assets/visuals/single_lag_moment_chart.png)
+![Single lag moment chart](assets/visuals/single_lag_moment_chart.png)
 
 Source HTML:
 `outputs/single_lag_moment_viz/single_lag_moment_chart.html`
