@@ -9,7 +9,7 @@ During the World Cup I collected a large amount of HIP-4 market data on Hyperliq
 - execution feasibility under shallow books
 - order-book impulse and liquidity event analysis
 
-The main conclusion was negative but useful: there were visible inefficiencies, and in some cases clear lag, but the market quality was usually too thin to convert those signals into a robust deployable strategy. In practice, fills were the constraint. A naive MM in these markets would mostly behave like a money rinser unless it was extremely selective about where and when to quote.
+The main conclusion was negative but useful: there were visible inefficiencies, and in some cases clear lag, but the market quality was usually too thin to convert those signals into a robust deployable strategy. In practice, fills were the constraint. A naive MM in these markets would mostly behave like a money rinser unless it was extremely selective about where and when to quote. But as I am now looking again at the data there would have been a few opportunities but I collected so much data it was very difficult to search through it all during the knock out game phase maybe I will apply some findings on future HIP4 plays. 
 
 ## Research summary
 
